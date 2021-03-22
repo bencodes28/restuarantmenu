@@ -1,0 +1,10 @@
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\bin\Debug\Restuarant app.exe.config
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\bin\Debug\Restuarant app.exe
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\bin\Debug\Restuarant app.pdb
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\obj\Debug\Restuarant app.csprojAssemblyReference.cache
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\obj\Debug\Restuarant_app.Form1.resources
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\obj\Debug\Restuarant_app.Properties.Resources.resources
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\obj\Debug\Restuarant app.csproj.GenerateResource.cache
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\obj\Debug\Restuarant app.csproj.CoreCompileInputs.cache
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\obj\Debug\Restuarant app.exe
+C:\Users\saveh\source\repos\Restuarant app\Restuarant app\obj\Debug\Restuarant app.pdb
